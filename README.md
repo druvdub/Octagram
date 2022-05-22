@@ -2,6 +2,13 @@
 
 A single player street fighter inspired game written in Python for a coursework.
 
+![Game Screen Freeze](./unknown.png)
+
+Some of the sprites used were created by [@LuizMelo](https://luizmelo.itch.io/)
+and [@Ansimuz](https://ansimuz.itch.io/).
+
+The rest were made using GIMP.
+
 ## Controls
 <kbd>&#8592;</kbd> <kbd>&#8594;</kbd> for movement
 
@@ -32,3 +39,6 @@ A single player street fighter inspired game written in Python for a coursework.
 Make sure to have [Python3.7+](https://www.python.org/downloads/) installed on your system.
 
 Clone the repository or download all the files in a directory and run the `game.py` script from the directory.
+
+---
+Have Fun.
